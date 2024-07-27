@@ -35,19 +35,6 @@ To run this project, you need Python and the following libraries installed:
 2. **Data Storage:** The scraped data is stored in a SQL database with the help of SQLAlchemy.
 3. **Streamlit Application:** Launch the Streamlit app to explore and filter the bus travel data.
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or issues, please contact [your-email@example.com](mailto:your-email@example.com).
-
----
-
-*Note: Replace vasu jeyakumar with your actual GitHub username and `jkrvasu@gmail.com` with your contact email.*
 
