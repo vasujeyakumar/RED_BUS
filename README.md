@@ -35,6 +35,3 @@ To run this project, you need Python and the following libraries installed:
 2. **Data Storage:** The scraped data is stored in a SQL database with the help of SQLAlchemy.
 3. **Streamlit Application:** Launch the Streamlit app to explore and filter the bus travel data.
 
-
-
-
